@@ -1,0 +1,25 @@
+<html>
+<title>Cars</title>
+
+  <head>Car Exercise</head>
+
+  <body>
+ <div>     
+   <h1> Things I look for in a Car</h1>
+      <ul>
+        <li>Gas mileage</li>
+        <li>Recent recalls</li>
+        <li>Intrest rate</li>
+      </ul>
+    </div>
+   <div>   
+     <h2> My Favorite Cars</h2>
+      <ol>
+        <li>Mercades Benz</li>
+        <li>Ford Fiesta</li>
+        <li>Chevy Tahoe</li>
+      </ol>
+    </div>
+  </body>
+
+</html>
