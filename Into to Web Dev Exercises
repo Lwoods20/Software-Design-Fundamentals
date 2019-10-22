@@ -1,19 +1,24 @@
 <html>
-<title>Cars</title>
+<title>Cars Exercise</title>
 
-  <head>Car Exercise</head>
+  <head></head>
+  <h3>Description of my personal prefences about cars!</h3>
 
   <body>
+    <div><img src="https://1129a7833bdae26bdd86-20a048d07e32b45fe631dec8b90d3ef6.ssl.cf1.rackcdn.com/WDDWJ6EB1KF888784/23c4e62ecabbe480fc2f099a08cb1a39.jpg" />
+    </div>
  <div>     
-   <h1> Things I look for in a Car</h1>
+   <h2> Things I look for in a Car</h2>
       <ul>
         <li>Gas mileage</li>
         <li>Recent recalls</li>
         <li>Intrest rate</li>
       </ul>
     </div>
+    <input />
+    
    <div>   
-     <h2> My Favorite Cars</h2>
+     <h3> My Favorite Cars</h3>
       <ol>
         <li>Mercades Benz</li>
         <li>Ford Fiesta</li>
